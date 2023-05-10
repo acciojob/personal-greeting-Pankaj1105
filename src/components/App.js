@@ -6,6 +6,8 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+        <label htmlFor="Enter Your name:"></label>
+        <input type="text" />
     </div>
   )
 }
